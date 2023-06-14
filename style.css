@@ -1,0 +1,10 @@
+html, body{
+margin: 0;
+}
+
+#info{
+    background-color: #233a95;
+    color: wheat;
+    font-size: 1rem;
+
+}
